@@ -1,0 +1,9 @@
+machineentrega2/
+_build/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.zip
+*.csv

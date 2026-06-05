@@ -1,0 +1,21 @@
+{
+    "best_gamma_paper": 0.25,
+    "best_num_boost_round_paper": 300,
+    "total_pipeline_time_paper": 312.07,
+    "best_params_paper": {
+        "eta": 0.05289102326492972,
+        "max_depth": 5,
+        "subsample": 0.85,
+        "colsample_bytree": 0.55,
+        "colsample_bylevel": 0.85,
+        "alpha": 2.718281828459045,
+        "lambda": 44.443380579236035,
+        "min_child_weight": 11.627674602261981,
+        "tree_method": "hist",
+        "device": "cuda",
+        "nthread": -1,
+        "seed": 42,
+        "verbosity": 0,
+        "disable_default_eval_metric": 1
+    }
+}
